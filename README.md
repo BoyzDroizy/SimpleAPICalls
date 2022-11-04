@@ -3,7 +3,7 @@
 <p align="center">
 :loudspeaker: SimpleApiCalls is a type-safe REST client for Android. The library provides the ability to interact with APIs and send network requests with HttpURLConnection. 
 
-The advantage of using this library is when you want your application or SDK not to contain many dependencies, you want a smaller size and you want it to be as easy to use as possible. This is a simple example, for more customizations, you can download source code and custom it for your requirements. :tada:
+The advantage of using this library is when you want your application or SDK not to contain many dependencies, you want a smaller size and you want it to be as easy to use as possible. This is a simple example, for more customizations, you can download the source code and customize it based on your requirements. :tada:
 </p><br>
 
 ## Including in your project
